@@ -15,7 +15,7 @@ function Wishlist() {
   return (
     <>
       <Helmet>
-        <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+        <link rel="icon" type="image/svg+xml" href="https://is.gd/iQ6OMn" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Wishlist</title>
       </Helmet>
